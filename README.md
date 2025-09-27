@@ -58,6 +58,9 @@ Decision Variable: Probability threshold for binary mask generation
 
 ✅ Validation Accuracy: 93–94%
 
+<img width="844" height="737" alt="python1_2" src="https://github.com/user-attachments/assets/8a4f2140-e75f-418c-ba48-dfed6c0c21b7" />
+
+
 🏁 Conclusion
 
 We presented a framework that combines U-Net segmentation with ITTA-TLBO threshold optimization for skin cancer lesion detection.
